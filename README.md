@@ -7,7 +7,6 @@ Welcome to the Weather App repository! This project is a web application that pr
 - **Live Weather Data**: Get up-to-date weather information for your current location or search for any city worldwide.
 - **5 Days Forecast**: You Can See your city 5 days forecast 
 - **Explore Section**: You Can See Many Random City Weather On Explore Section
-- **Add More Citys**: You Can Add More Citys 
 
 ### Technologies Used 
 
@@ -38,7 +37,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
 ```sh
- git clone https://github.com/aniketpal3/weather.git
+ git clone https://github.com/ankitkumar00021/Weather_App.git
 ```
 2. Navigate to the project directory:
 ```sh 
@@ -55,6 +54,6 @@ let apiKey = "Your API Key";
 To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
 
 ## Contact
-For any inquiries, reach out at (aniketpal227@gmail.com).<br>
-GitHub: [aniketpal3](github.com/aniketpal3).
+For any inquiries, reach out at (ak0196274@gmail.com).<br>
+GitHub: [ankitkumar](github.com/ankitkumar00021).
 
